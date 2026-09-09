@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/badge/Website-stefanovskyi.com-0a0a0a.svg)](https://stefanovskyi.com/)
 
 
-Hi, I’m **Oleksandr Stefanovskyi**, a **Strategic Technology Partner** at **Intelliarts**. I align technology plans with business goals and guide projects from first sketch to launch. I put Generative AI into production — training domain-specific models, building prompt workflows, and setting up secure deployment rails.
+Hi, I’m **Oleksandr Stefanovskyi**, a **AI Solutions Architect** at **Intelliarts**. I align technology plans with business goals and guide projects from first sketch to launch. I put Generative AI into production — training domain-specific models, building prompt workflows, and setting up secure deployment rails.
 
 I lead discovery and pre-sales, define architectures, assemble teams, and establish SDLC practices that integrate AI from day one. With experience across cloud infrastructure, machine learning, and full-cycle product development, I turn complex requirements into clear roadmaps and help organizations ship reliably.
 
